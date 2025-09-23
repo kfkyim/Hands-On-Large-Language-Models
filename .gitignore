@@ -7,3 +7,7 @@ dist/
 data/
 *.pth
 *.gguf
+*.arrow
+*.json
+\checkpoint*
+*.safetensors
